@@ -1,4 +1,6 @@
 
+Artificial Intelligence Gomoku game, allows human beings playing against the agent. Contains the simplest Reflex Agent, the MiniMax Agent with and without alpha-beta pruning, the Stochastic Agent and the Supervised Agent.
+
 [![Watch the video](https://github.com/ForestCold/Images/blob/master/Screen%20Shot%202018-05-02%20at%203.28.01%20PM.png)](https://www.youtube.com/watch?v=pqylo6jfMh4)
 
 ## Code Structure
