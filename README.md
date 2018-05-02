@@ -1,4 +1,6 @@
 
+[![Watch the video](https://github.com/ForestCold/Images/blob/master/Screen%20Shot%202018-05-02%20at%203.28.01%20PM.png)](https://www.youtube.com/watch?v=pqylo6jfMh4)
+
 ## Code Structure
 >
 > + **Configuration (Interface) :** All global constant such as the size of board (7), the length of winning chain (5).
@@ -30,6 +32,3 @@ We use RStudio as software to process our dataset. First, we load the dataset an
 The formula is yi = 0 + 1xi1 + 2xi2 + ... pxip + i for i = 1,2, ... n.
 Then we use RStudio built-in function “lm” which is used to process multiple linear regression. 
 
-
-## Preview
-![Preview](https://raw.githubusercontent.com/ForestCold/Images/master/Screen%20Shot%202018-03-11%20at%201.15.13%20AM.png)
